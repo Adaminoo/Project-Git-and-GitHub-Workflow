@@ -6,10 +6,11 @@ h1 {
 }
 
 .gwimbly {
-    margin: 400px;
+    margin-left: 400px;
+    margin-top: 400px;
 }
 
-  p {
+.subtitle {
     color: red;
     font-weight: bold;
     font-family: sans-serif;
@@ -18,4 +19,19 @@ h1 {
   
   body {
     background-color: black;
+  }
+
+  .cave {
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    white-space:pre;
+    margin-top:0;
+    display: inline-block;
+    font-size: 24px;
+    line-height: 12px;
+    margin-left: 400px;
+  }
+  a {
+    color:white;
+    text-decoration: none;
   }
