@@ -17,6 +17,10 @@ h1 {
                  -32px 32px #f9a825,
                  -36px 36px #ff5722;
   }
+
+  p {
+    color: red;
+  }
   
   body {
     background-color: black;
